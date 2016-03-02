@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Basic TileMap Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Basic_TileMap_Game_jar</output-path>
+    <root id="archive" name="Basic TileMap Game.jar">
+      <element id="module-output" name="Basic TileMap Game" />
+      <element id="file-copy" path="$PROJECT_DIR$/menubg.gif" />
+      <element id="file-copy" path="$PROJECT_DIR$/sprite.gif" />
+    </root>
+  </artifact>
+</component>
